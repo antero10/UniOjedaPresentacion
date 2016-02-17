@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www":{"guestpath":"/var/www","hostpath":"/Users/antero/Documents/Dev/UniOjedaGoodPractices/vagrant_example","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/antero/Documents/Dev/UniOjedaGoodPractices/vagrant_example","disabled":false,"__vagrantfile":true}}}
